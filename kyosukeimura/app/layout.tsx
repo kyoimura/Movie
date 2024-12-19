@@ -58,7 +58,7 @@ export default function RootLayout({
 function Footer() {
   const links = [
     { name: 'LinkedIn', url: 'https://www.linkedin.com/in/kyosuke-imura/' },
-    { name: 'Resume', url: 'https://drive.google.com/file/d/1KOAczI93C4OEzziwqcC1Yp5zV4b-vKIM/view?usp=sharing' },
+    { name: 'Resume', url: 'https://drive.google.com/file/d/1Xp_ueE797fgrmtYORCxblTlh9Fw2t2PS/view?usp=sharing' },
     { name: 'GitHub', url: 'https://github.com/kyoimura' },
   ];
 
